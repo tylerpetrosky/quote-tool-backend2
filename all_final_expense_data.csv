@@ -1,0 +1,26 @@
+
+Gender,Age,Face Amount,Non-Smoker,Smoker,Legacy Graded,Carrier
+Male,45,10000,27.11,36.22,,Mutual of Omaha
+Male,55,10000,35.95,47,,Mutual of Omaha
+Male,65,10000,56,79,,Mutual of Omaha
+Male,75,10000,99,144,,Mutual of Omaha
+Male,85,10000,192,282,,Mutual of Omaha
+Female,45,10000,22.61,29,,Mutual of Omaha
+Female,55,10000,27,38,,Mutual of Omaha
+Female,65,10000,41,56,,Mutual of Omaha
+Female,75,10000,72,99,,Mutual of Omaha
+Female,85,10000,135,192,,Mutual of Omaha
+Male,50,10000,33.43,41.78,44.05,Corebridge
+Male,55,10000,39.22,52.23,51.92,Corebridge
+Male,60,10000,47.82,65.28,59.8,Corebridge
+Male,65,10000,61.81,87.5,71.78,Corebridge
+Male,70,10000,81.75,117.77,92.97,Corebridge
+Male,75,10000,109.65,,120.71,Corebridge
+Male,80,10000,153.38,,158.66,Corebridge
+Female,50,10000,26.42,34.37,31.95,Corebridge
+Female,55,10000,30.15,42.16,39.83,Corebridge
+Female,60,10000,35.83,49.39,49.26,Corebridge
+Female,65,10000,44.79,62.01,58.13,Corebridge
+Female,70,10000,58.24,81.6,75.45,Corebridge
+Female,75,10000,79.33,,104.41,Corebridge
+Female,80,10000,135,,158.66,Corebridge
